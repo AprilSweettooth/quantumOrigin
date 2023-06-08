@@ -1,0 +1,3 @@
+to run the first question just run func as question1(state: str) where state is one of '00', '01', '10', '11' and it will return the circuit as well as print it
+
+to run the second question just input any theta such as pi/4, a circuit is printed and list of probabilities is printed
